@@ -1,0 +1,2 @@
+# kirdyashkindi_microservices
+kirdyashkindi microservices repository
